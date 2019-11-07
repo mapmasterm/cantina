@@ -26,8 +26,6 @@ public class App {
         System.out.println("'StackView.accessoryView'");
         System.out.println("'StackView.column'");
         System.out.println("'.column'");
-        System.out.println("'StackView.column'");
-        System.out.println("'.column'");
         System.out.println("'CvarSelect'");
         System.out.println("'CvarSelect#rate' or '#rate' // Are equal");
 

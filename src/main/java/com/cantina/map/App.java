@@ -4,7 +4,6 @@ import com.cantina.map.simple.JSimpleParser;
 
 import java.io.File;
 import java.io.FileOutputStream;
-import java.net.URI;
 import java.net.URL;
 import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
